@@ -7,6 +7,10 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikgauthama/my-profile-app"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

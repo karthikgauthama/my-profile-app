@@ -12,7 +12,7 @@
     "url": "git+https://github.com/karthikgauthama/my-profile-app"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
